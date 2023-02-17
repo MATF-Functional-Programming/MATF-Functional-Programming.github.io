@@ -11,4 +11,4 @@ Grupe 4I2A i 4I2B će svoj prvi čas vežbi imati u sredu 22. februara po raspor
 Od treće nedelje semestra će stoga grupe biti sinhronizovane.
 
 Ovakav raspored je delom formiran kako bi studenti koji slušaju FP paralelno sa PP mogli da iskoriste dodatno vreme za lakše razumevanje materijala 
-(pogledati karticu [O kursu](about.md)) za više informacija.
+(pogledati karticu _O kursu_) za više informacija.
