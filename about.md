@@ -9,7 +9,7 @@ title: O kursu
 Profesor: [Stefan Mišković](http://poincare.matf.bg.ac.rs/~ivan.cukic/)
 
 Asistenti: 
-[Ivan Ristović](http://poincare.matf.bg.ac.rs/~ivan.ristovic/), 
+[Ivan Ristović](http://poincare.matf.bg.ac.rs/~ivan.ristovic/) 
 <!-- [Stefan Kapunac](http://poincare.matf.bg.ac.rs/~stefan.kapunac/) -->
 
 
@@ -33,4 +33,12 @@ Uslov za prolaznu ocenu: *30% poena na svakoj proveri*
 Dopunski materijali (za studente koji nisu slušali kurs _Programske paradigme_):
 - [Haskell: Intro, Lists, High-Order Functions](https://www.youtube.com/watch?v=H5Tur83Sk1E&feature=youtu.be)
 - [Haskell: Algebraic/Sum Types, Semi-Advanced Contepts](https://www.youtube.com/watch?v=mMhm0tCp00M&feature=youtu.be)
+
+## Literatura
+
+- [Haskell WikiBook](https://en.wikibooks.org/wiki/Haskell)
+- M. Lipovača: [Nauči Haskell za opšte dobro!](http://learnyouahaskell.com/chapters)
+- B. O'Sullivan, D. Stewart i J. Goerzen: *Real World Haskell*
+- I. Čukić: *Funkcionalno programiranje u C++*
+- N. Ubavić: [Programiranje u Haskelu](https://haskel.ubavic.rs/)
 
