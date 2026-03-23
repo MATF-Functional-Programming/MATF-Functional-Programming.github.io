@@ -6,9 +6,11 @@ title: O kursu
 
 ## Informacije o kursu
 
-Profesor: [Ivan Čukić](http://poincare.matf.bg.ac.rs/~ivan.cukic/)
+Profesor: [Stefan Mišković](http://poincare.matf.bg.ac.rs/~ivan.cukic/)
 
-Asistenti: [Ivan Ristović](http://poincare.matf.bg.ac.rs/~ivan.ristovic/), [Stefan Kapunac](http://poincare.matf.bg.ac.rs/~stefan.kapunac/)
+Asistenti: 
+[Ivan Ristović](http://poincare.matf.bg.ac.rs/~ivan.ristovic/), 
+<!-- [Stefan Kapunac](http://poincare.matf.bg.ac.rs/~stefan.kapunac/) -->
 
 
 ### Obaveze studenata
