@@ -37,7 +37,7 @@ Dopunski materijali (za studente koji nisu slušali kurs _Programske paradigme_)
 ## Literatura
 
 - [Haskell WikiBook](https://en.wikibooks.org/wiki/Haskell)
-- M. Lipovača: [Nauči Haskell za opšte dobro!](http://learnyouahaskell.com/chapters)
+- M. Lipovača: [Nauči Haskell za opšte dobro!](https://learnyouahaskell.github.io/chapters.html)
 - B. O'Sullivan, D. Stewart i J. Goerzen: *Real World Haskell*
 - I. Čukić: *Funkcionalno programiranje u C++*
 - N. Ubavić: [Programiranje u Haskelu](https://haskel.ubavic.rs/)
