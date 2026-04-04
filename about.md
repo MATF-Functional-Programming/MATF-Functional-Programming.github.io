@@ -15,9 +15,9 @@ Asistenti:
 
 ### Obaveze studenata
 
-Završni ispit je nedeljiv, odnosno delovi završnog ispita se ne prenose u naredni rok.
+Delovi završnog ispita se mogu prenositi u naredne rokove.
 
-Ispit ima dva dela koja se polažu _istovremeno_:
+Ispit se sastoji iz dva dela:
 - praktični ispit: *60 poena*
 - teorijski ispit: *40 poena*
 
