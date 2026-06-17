@@ -18,11 +18,15 @@ Asistenti:
 Delovi završnog ispita se mogu prenositi u naredne rokove.
 
 Ispit se sastoji iz dva dela:
-- praktični ispit: *60 poena*
-- teorijski ispit: *40 poena*
+- praktični ispit: 1.5h, tri praktična zadatka, *60 poena*
+- teorijski ispit: 1h, više teorijskih zadataka, *40 poena*
 
 Uslov za prolaznu ocenu: *30% poena na svakoj proveri*
 
+Delovi ispita se polažu u terminu ispita, ali ne istovremeno.
+
+Praktični ispit se sastoji iz dva Haskell zadatka i jednog C++ zadatka.
+Primeri funkcionalnih koncepata u muzičkim plejerima i grafici kroz Haskell biblioteku Gloss ne dolaze na ispitu.
 
 ## Materijali za vežbe
 
