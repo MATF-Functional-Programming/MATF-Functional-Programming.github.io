@@ -26,7 +26,7 @@ Uslov za prolaznu ocenu: *30% poena na svakoj proveri*
 Delovi ispita se polažu u terminu ispita, ali ne istovremeno.
 
 Praktični ispit se sastoji iz dva Haskell zadatka i jednog C++ zadatka.
-Primeri funkcionalnih koncepata u muzičkim plejerima i grafici kroz Haskell biblioteku Gloss ne dolaze na ispitu.
+Na ispitu je u opticaju kompletno gradivo sa vežbi osim primera funkcionalnih koncepata u muzičkim plejerima i grafici kroz Haskell biblioteku Gloss.
 
 ## Materijali za vežbe
 
