@@ -10,7 +10,6 @@ Rezultati ispita se mogu naći na narednom [linku](https://poincare.matf.bg.ac.r
 Detaljniji rezultati praktičnog dela se mogu naći u tabeli ispod.
 Uvid u praktični deo je moguć putem mail-a do 10. septembra.
 
-```
 |Index|zad1|zad2|zad3|Total|Zad1x1.5|Zad2x2.5|zad3x2|Final Total|
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
 |mi21398|10|10|10|30|15|25|20|60|
@@ -34,4 +33,3 @@ Uvid u praktični deo je moguć putem mail-a do 10. septembra.
 |mi20161|4|0|0|4|6|0|0|6|
 |mi20057|0|0|0|0|0|0|0|0|
 |mi21168|0|0|0|0|0|0|0|0|
-```
